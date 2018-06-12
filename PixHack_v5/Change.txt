@@ -1,7 +1,8 @@
 V5_IMU_V196
 
 *)Optimize IMU power supply .
-*)Reconstruction of the temperature compensation circuit, previous versions of the temperature compensation circuit were problematic. Avoid transistor leakage can not be closed problem.
+*)Reconstruction of the temperature compensation circuit, previous versions of the temperature compensation circuit were problematic.
+  Avoid transistor leakage can not be closed problem.
 
 
 2018-6-12
