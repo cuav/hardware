@@ -1,8 +1,13 @@
-﻿The PixHack V5 is based on the FMUv5 designed flight control controller hardware.
+The PixHack V5 is based on the FMUv5 designed flight control controller hardware.
+
 The main design of the PixHack V5 hardware is performed by CUAV and produced by CUAV.
+
 The hardware design file is completely open by CUAV and And abide by the CC-BY-SA 3.0 protocol.
+
 The PixHack V5 design document cites many design files or reference files and related libraries from these organizations or companies.
+
 Including PX4\PIXHAWK\3DR\Proficnc\ST\Altium\TDK\Hirose\Hrs\PANASONIC\molex\TI\  and other organizations or companies.Some design reference copyrights should belong to them.
+
 Thanks for their contributions to open source hardware. If there is any infringement, please contact us for deletion and modification.
 
 The V5 flight controller has two main components:
