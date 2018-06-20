@@ -25,3 +25,4 @@ This is a docking station and its main functions are:
 2: Built-in a PX4_IO_V2 processor
 3: Extend the V5_Core I/O through the wire-to-board connector.
 
+The PixHack V5 is a derivative of [**The Cube Autopilot**](https://github.com/proficnc/The-Cube) by [**ProfiCNC**](http://www.proficnc.com/) which is licenced under [**CC-BY-SA 3.0**](http://creativecommons.org/licenses/by-sa/3.0/).
