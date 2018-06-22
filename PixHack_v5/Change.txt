@@ -1,3 +1,22 @@
+
+
+V5_BASE_V193.pdf  2018-6-21
+
+1：Fix I2C4 definition crossover error issue, thanks APM team found this error
+2：Specification drawings and component parameters
+
+V5_CORE_V176  2018-6-21
+
+1：Fix I2C4 definition crossover error issue, thanks APM team found this error
+2：Specification drawings and component parameters
+
+
+V5_IMU_V197  2018-6-18
+1: Optimized new temperature compensation circuit to make it heated quickly and with less interference
+2: Specification component parameters
+
+
+
 V5_IMU_V196
 
 *)Optimize IMU power supply .
